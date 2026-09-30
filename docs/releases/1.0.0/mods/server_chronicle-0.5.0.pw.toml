@@ -1,0 +1,8 @@
+name = "server_chronicle-0.5.0"
+filename = "server_chronicle-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/65d06cdc901158a9c306dd84061a8da1b2614b0d500ee165f32d3db1aba8239b.jar"
+hash-format = "sha256"
+hash = "65d06cdc901158a9c306dd84061a8da1b2614b0d500ee165f32d3db1aba8239b"

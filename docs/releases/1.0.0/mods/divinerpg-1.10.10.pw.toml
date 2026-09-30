@@ -1,0 +1,12 @@
+name = "divinerpg-1.10.10"
+filename = "divinerpg-1.10.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F3kLpGw6/versions/M9cHTouB/divinerpg-1.10.10.jar"
+hash-format = "sha512"
+hash = "93d47f3b74917815d9c8c9dcff26687e3789bdc4128539b86664129d0e848bc039bf6531f2c52ac489a68e2038ba82346f54e18d5807b9f3936b1cbc86c31837"
+
+[update.modrinth]
+mod-id = "F3kLpGw6"
+version = "M9cHTouB"

@@ -1,0 +1,10 @@
+﻿{
+    "hudEnabled":  false,
+    "hudScale":  0.75,
+    "hudXOffset":  0.0,
+    "hudYOffset":  0.0,
+    "avoidJEIOverlap":  true,
+    "x_offset":  0.0,
+    "y_offset":  0.0,
+    "anchor":  "TL"
+}
