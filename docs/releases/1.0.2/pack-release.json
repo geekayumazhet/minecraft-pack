@@ -324,7 +324,7 @@
     },
     {
       "path": "config/ras/display/overlay.json",
-      "sha256": "5945c1f277a0f7d6a3b66314f1d357ea27cec5d813fafb36a2233da62d71aabe",
+      "sha256": "65dfccc8183a5d2cc6bcb2ff56cb07161c125a97af759876ecc166604d1421f5",
       "side": "client"
     },
     {
