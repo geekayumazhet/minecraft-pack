@@ -1,0 +1,8 @@
+name = "TranslationsRus"
+filename = "TranslationsRus.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/b569f9b8269f6905109612223263d3f32b26309618103ae3e7da4f3692fba8dd.jar"
+hash-format = "sha256"
+hash = "b569f9b8269f6905109612223263d3f32b26309618103ae3e7da4f3692fba8dd"

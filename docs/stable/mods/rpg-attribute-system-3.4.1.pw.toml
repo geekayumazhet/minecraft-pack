@@ -1,0 +1,12 @@
+name = "rpg-attribute-system-3.4.1"
+filename = "rpg-attribute-system-3.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d85UTOuq/versions/z83onZBu/rpg_attribute_system-neoforge-1.21.1-3.4.1.jar"
+hash-format = "sha512"
+hash = "132df1152661bfc49a9a9e913898d5b72c23dfd92beb11fdcb3b4fe11b1441610b0f073a054135105b335fc8eda3888ad212767224906af9545cc382c4aae68f"
+
+[update.modrinth]
+mod-id = "d85UTOuq"
+version = "z83onZBu"
