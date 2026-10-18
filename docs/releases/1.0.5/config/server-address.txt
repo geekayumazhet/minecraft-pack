@@ -1,0 +1,3 @@
+Minecraft Java server for friends
+Address: practically-strung.tun.ply.gg:2077
+Friends need the Minecraft pack only. Do not install or sign in to Playit.

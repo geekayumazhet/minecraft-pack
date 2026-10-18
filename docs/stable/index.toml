@@ -284,8 +284,8 @@ hash = "ec8669a1295d24178812b7dec90ef9a06bab73f348cdb56457202ae3197d3eae"
 metafile = true
 
 [[files]]
-file = "mods/server_chronicle-0.5.82-create-self-deploying-journey.pw.toml"
-hash = "c8a56e3289c4f3a171b052939e4ac74572d441476f691a34c1986aac830d9fb5"
+file = "mods/server_chronicle-0.5.83-profile-header-layout.pw.toml"
+hash = "72ff6005330ccb71f2ec2c2b717801717efe222b0d4640963e6cf6e4debe30e2"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "pack-release.json"
-hash = "4f5ba5e68b6c6a6433c9c6b0bed45a98743100b12dff9638193333ee15497ef9"
+hash = "e1ac8edb1fcbca950c07ce7f5f133d686ba7bd739b29c0202fcea42bd020f588"
 
 [[files]]
 file = "resourcepacks/ru_translation_pack_ae2_atm10.zip"

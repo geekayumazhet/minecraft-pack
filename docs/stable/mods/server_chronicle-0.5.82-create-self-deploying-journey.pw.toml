@@ -1,8 +1,0 @@
-name = "Server Chronicle 0.5.82"
-filename = "server_chronicle-0.5.82-create-self-deploying-journey.jar"
-side = "both"
-
-[download]
-url = "https://geekayumazhet.github.io/minecraft-pack/assets/51fa65798d18979675ae934e6d2b5ba9e766a9cf23b6715046f0a06bf1977b03.jar"
-hash-format = "sha256"
-hash = "51fa65798d18979675ae934e6d2b5ba9e766a9cf23b6715046f0a06bf1977b03"

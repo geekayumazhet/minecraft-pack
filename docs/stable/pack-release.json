@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "platform": {
     "minecraft": "1.21.1",
     "neoforge": "21.1.233",
@@ -273,8 +273,8 @@
       "side": "client"
     },
     {
-      "path": "mods/server_chronicle-0.5.82-create-self-deploying-journey.jar",
-      "sha256": "51fa65798d18979675ae934e6d2b5ba9e766a9cf23b6715046f0a06bf1977b03",
+      "path": "mods/server_chronicle-0.5.83-profile-header-layout.jar",
+      "sha256": "1d69d1387447aa8b43f83fe884a9fcc30c9cf76fb4f16fb98338c2e501cef071",
       "side": "both"
     },
     {

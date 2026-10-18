@@ -1,0 +1,8 @@
+name = "Server Chronicle 0.5.83"
+filename = "server_chronicle-0.5.83-profile-header-layout.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/1d69d1387447aa8b43f83fe884a9fcc30c9cf76fb4f16fb98338c2e501cef071.jar"
+hash-format = "sha256"
+hash = "1d69d1387447aa8b43f83fe884a9fcc30c9cf76fb4f16fb98338c2e501cef071"
