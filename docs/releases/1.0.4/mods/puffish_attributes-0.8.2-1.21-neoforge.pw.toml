@@ -1,0 +1,8 @@
+name = "puffish_attributes-0.8.2-1.21-neoforge"
+filename = "puffish_attributes-0.8.2-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/Fl3WeKhH/puffish_attributes-0.8.2-1.21-neoforge.jar"
+hash-format = "sha256"
+hash = "c1a30f25be9990e48f5180d42666b8cf91acebaaafa216bfeb11f4fc6bb7c714"
