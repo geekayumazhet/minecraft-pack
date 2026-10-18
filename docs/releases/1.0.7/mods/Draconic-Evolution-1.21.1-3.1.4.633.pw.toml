@@ -1,0 +1,12 @@
+name = "Draconic-Evolution-1.21.1-3.1.4.633"
+filename = "Draconic-Evolution-1.21.1-3.1.4.633.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nBqivi8H/versions/84xwXpNh/Draconic-Evolution-1.21.1-3.1.4.633.jar"
+hash-format = "sha512"
+hash = "9740f5750a916db8927d8051430b49eba9ebc37e5545aef09b83872a561a721e7eb8fed82e6ed2aad15ba016d6f8ea2ce566a5cafacc4a2879239119cdbaff31"
+
+[update.modrinth]
+mod-id = "nBqivi8H"
+version = "84xwXpNh"

@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "pack-release.json"
-hash = "861ce227dea0a45ffea4b4bfade0c30b9be47d749358b819598fb43c406b8570"
+hash = "fe7b7b3d29b963fcc7f92f74d06d158a36de1613d1755d1ba183b8d4405cc951"
 
 [[files]]
 file = "resourcepacks/ru_translation_pack_ae2_atm10.zip"

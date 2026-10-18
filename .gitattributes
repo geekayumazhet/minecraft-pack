@@ -1,1 +1,3 @@
 docs/updater/** -text
+docs/stable/** -text
+docs/releases/** -text

@@ -1,12 +1,12 @@
 name = "Майнкрафт Pack"
 author = "Minecraft server team"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fae8646ee30ae343af5f40d646ea4a7639da320b4426c3564f9795927ee38162"
+hash = "53537c4cfd432eb35a8f8d9b51fae954eb2715689dbc0fc2c1972241194561a2"
 
 [versions]
 minecraft = "1.21.1"
