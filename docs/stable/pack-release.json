@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "1.0.2",
+  "version": "1.0.3",
   "platform": {
     "minecraft": "1.21.1",
     "neoforge": "21.1.233",
@@ -341,6 +341,11 @@
       "path": "mods/default_skill_trees-1.1.jar",
       "sha256": "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f",
       "side": "both"
+    },
+    {
+      "path": "config/server-address.txt",
+      "sha256": "e40c3173126565bf3d48e575e524bc433b48096b27c46d1665fe2e5ef9d44729",
+      "side": "client"
     }
   ]
 }

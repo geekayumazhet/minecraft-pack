@@ -1,0 +1,13 @@
+name = "Майнкрафт Pack"
+author = "Minecraft server team"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "43779edf81588c19c0d0ec08b7799dd3e42a0425dd02eafa0d090729e2ed43ca"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
