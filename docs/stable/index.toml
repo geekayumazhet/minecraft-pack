@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "3d1856756c66881cd4932e5994963d3491b6d436ece0e34986b371846fdd4c29"
+
+[[files]]
 file = "config/ras/display/overlay.json"
 hash = "65dfccc8183a5d2cc6bcb2ff56cb07161c125a97af759876ecc166604d1421f5"
 
@@ -81,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.pw.toml"
 hash = "ac512ba99ad7a1964b6bff3da73b63516f825a05448bebce68c01cc54b97ca05"
+metafile = true
+
+[[files]]
+file = "mods/create_connected-1.3.3-mc1.21.1.pw.toml"
+hash = "bc303d1750f67b55377d50209df85a09540539d49f6a7901c29d4b43a8a12a71"
 metafile = true
 
 [[files]]
@@ -335,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "pack-release.json"
-hash = "e1ac8edb1fcbca950c07ce7f5f133d686ba7bd739b29c0202fcea42bd020f588"
+hash = "861ce227dea0a45ffea4b4bfade0c30b9be47d749358b819598fb43c406b8570"
 
 [[files]]
 file = "resourcepacks/ru_translation_pack_ae2_atm10.zip"
