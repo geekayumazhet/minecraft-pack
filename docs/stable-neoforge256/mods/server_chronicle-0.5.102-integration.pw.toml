@@ -1,0 +1,8 @@
+name = "server_chronicle-0.5.102-integration.jar"
+filename = "server_chronicle-0.5.102-integration.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/a7d7ebe111db9354be248c1b23b13f06d4a782e5c9a2ed373780db28c0fb0c22.jar"
+hash-format = "sha256"
+hash = "a7d7ebe111db9354be248c1b23b13f06d4a782e5c9a2ed373780db28c0fb0c22"

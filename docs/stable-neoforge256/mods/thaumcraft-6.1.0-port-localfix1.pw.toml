@@ -1,0 +1,8 @@
+name = "thaumcraft-6.1.0-port-localfix1.jar"
+filename = "thaumcraft-6.1.0-port-localfix1.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/071bacba65ed96578d6a459b445e8c2676f5784878d467994b05367a40897e2e.jar"
+hash-format = "sha256"
+hash = "071bacba65ed96578d6a459b445e8c2676f5784878d467994b05367a40897e2e"
