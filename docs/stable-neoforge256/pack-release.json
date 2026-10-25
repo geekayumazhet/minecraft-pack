@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": "1.1.2",
+  "version": "1.1.3",
   "platform": {
     "minecraft": "1.21.1",
     "neoforge": "21.1.256",
@@ -364,7 +364,7 @@
     },
     {
       "path": "resourcepacks/chronicle_client_fixes_ru_v1.zip",
-      "sha256": "41f1d659f99f1fe4474cd7e3562e26cf4cd73203e670ec68f1e34a6ac07109d4",
+      "sha256": "90c33fab3204e3a620836ba6a360551bcc9a2d957ac2b26b835b107493df00bf",
       "side": "client"
     },
     {
