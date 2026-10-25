@@ -1,0 +1,12 @@
+name = "puffish_skills-0.19.0-1.21-neoforge"
+filename = "puffish_skills-0.19.0-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/PFZY8Vfz/puffish_skills-0.19.0-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "3a7d1efac2cf06cb1d361535144873e8a7b223bde00bc6c2af87560498c700411c1766b2b8511de821187e72484a59407ec9edc3d4df13e9210e9ea1b2725337"
+
+[update.modrinth]
+mod-id = "hqQqvaa4"
+version = "PFZY8Vfz"

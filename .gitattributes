@@ -5,3 +5,5 @@ docs/releases/** -text
 docs/stable-neoforge256/** -text
 
 docs/updater-neoforge256/** -text
+
+docs/client-fixes/** -text

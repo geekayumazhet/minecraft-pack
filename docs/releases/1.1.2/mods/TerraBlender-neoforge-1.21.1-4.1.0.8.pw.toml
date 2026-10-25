@@ -1,0 +1,8 @@
+name = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+filename = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9.jar"
+hash-format = "sha256"
+hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
