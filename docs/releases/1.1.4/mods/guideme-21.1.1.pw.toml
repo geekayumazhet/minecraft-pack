@@ -1,0 +1,12 @@
+name = "guideme-21.1.1"
+filename = "guideme-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/PALpfSdf/guideme-21.1.1.jar"
+hash-format = "sha512"
+hash = "f6f53555e80dc7cd61a1913bd59219dcbe9e7ad9ffc61afc552a66d36c7990098fd508605b0b83324e8718c4939d9164cce12d67a1d19a801dbf92d05ba49ba3"
+
+[update.modrinth]
+mod-id = "Ck4E7v7R"
+version = "PALpfSdf"

@@ -1,0 +1,8 @@
+name = "Server Chronicle 0.5.105"
+filename = "server_chronicle-0.5.105-ui.jar"
+side = "both"
+
+[download]
+url = "https://geekayumazhet.github.io/minecraft-pack/assets/3d779c647d0e4e66118b4e22e4b940944164469caa7c7043633312b0b2806ca7.jar"
+hash-format = "sha256"
+hash = "3d779c647d0e4e66118b4e22e4b940944164469caa7c7043633312b0b2806ca7"

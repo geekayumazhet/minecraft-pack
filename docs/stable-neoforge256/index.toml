@@ -354,11 +354,11 @@ metafile = true
 
 [[files]]
 file = "pack-release.json"
-hash = "508a7874afe6972978d41fd93023914178b81f224e136cb39ab6f52f9edc3e38"
+hash = "9a3d51cc92c722e9fb7ff3eb65f8e18f8d530976e2f9d672279faf8908aaf652"
 
 [[files]]
 file = "resourcepacks/chronicle_client_fixes_ru_v1.zip"
-hash = "90c33fab3204e3a620836ba6a360551bcc9a2d957ac2b26b835b107493df00bf"
+hash = "88cf6eefc412df5197b40cc80b52a70819e4912e311da513f99e1a1cbab9dcf6"
 
 [[files]]
 file = "resourcepacks/ru_translation_pack_ae2_atm10.zip"
